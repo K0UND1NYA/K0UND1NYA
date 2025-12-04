@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋,<br/> I'm Shrinidhi S Koundinya</h1>
-# 💫 About Me:
-🌱 I’m currently learning MERN Stack<br><br>👨‍💻 Portfolio https://shrinidhi-s-koundinya.vercel.app/
+<br>👨‍💻 Portfolio https://shrinidhi-s-koundinya.vercel.app/
 
 
 ## 🌐 Socials:
